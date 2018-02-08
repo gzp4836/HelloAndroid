@@ -4,3 +4,6 @@ function DD(){
 function CC(){
     alert("456");
 }
+function AA(){
+    alert(777);
+}
